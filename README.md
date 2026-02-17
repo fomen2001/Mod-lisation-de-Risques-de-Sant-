@@ -1,4 +1,4 @@
-# Mod-lisation-de-Risques-de-Sant-
+# Modelisation-de-Risques-de-Sante-
 🏥 Prédiction des Risques de Réadmission Hospitalière (Machine Learning)
 
 Ce projet implémente un pipeline complet de Data Science pour prédire le risque de réadmission des patients sous 30 jours, en s'appuyant sur des indicateurs cliniques et démographiques inspirés des standards de données de santé (type MIMIC-III).
